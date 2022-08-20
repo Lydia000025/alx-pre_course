@@ -1,1 +1,2 @@
-git pull origin
+git init
+git pull https://github.com/Lydia000025/alx-pre_course/blob/f45a3da8f490c649f974147fa3197822af84fa1e/0x01-git/README.md
