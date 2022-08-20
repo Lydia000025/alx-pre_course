@@ -1,1 +1,1 @@
-echo "up_to_date"> up_to_date
+git pull https://github.com/Lydia000025/alx-pre_course.git/README.md 
